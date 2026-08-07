@@ -16,6 +16,7 @@ docker run -d \
     --name $CONTAINER_NAME \
     -p 11434:11434 \
     -v ollama_data:/root/.ollama \
+    
     ollama/ollama:latest
 
 # Ждём, пока сервер запустится
