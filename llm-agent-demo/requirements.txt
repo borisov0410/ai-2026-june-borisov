@@ -1,0 +1,9 @@
+fastapi==0.109.0
+uvicorn==0.27.0
+llama-index==0.10.11
+llama-index-llms-ollama==0.1.2
+llama-index-embeddings-huggingface==0.1.4
+llama-index-vector-stores-chroma==0.1.5
+chromadb==0.4.22
+pydantic==2.5.3
+python-multipart==0.0.6
